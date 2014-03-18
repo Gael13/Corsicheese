@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+fromage:
+  title: Plateau A 
+  description: Assortiment de fromages corses
+  price: 19.90
+  image_url: plateau_a.jpg
