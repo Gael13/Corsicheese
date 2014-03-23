@@ -16,3 +16,4 @@ Product.create(title: 'Plateau A',
       </p>},
   image_url: 'plateau_a.jpg',
   price: 19.95)
+	
